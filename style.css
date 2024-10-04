@@ -1,0 +1,128 @@
+
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.one{
+
+    margin-right: 120px;
+    font-weight: 650;
+    display: flex;
+    gap: 15px;
+
+}
+
+.two{
+
+    font-weight: 1000;
+}
+
+.three{
+
+    background-image: url(./img/home-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+
+}
+
+.four{
+
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+
+.four:hover{
+
+    background-color: rgba(255,245,0,1) !important;
+    color: black !important;
+}
+
+
+.five{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    position: relative;
+    bottom: -250px;
+
+}
+
+.six{
+
+    margin-top: 150px;
+
+
+}
+
+
+
+.seven{
+
+    margin-top: 150px;
+}
+
+
+.fourteen{
+
+
+    padding-bottom: 100px;
+
+}
+
+.eight{
+
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 270px;
+    background-color: rgb(218, 218, 218);
+    border: 1px solid rgba(255,255,255);
+
+}
+
+.nine{
+
+
+    width: 43%;
+    height: 230px;
+    border: 1px solid rgb(226, 225, 225);
+    border-radius: 12px;
+
+}
+
+.ten{
+
+    background-color: rgb(243, 243, 243);
+    padding-bottom: 110px;
+
+}
+
+.eleven{
+
+    height: 520px !important;
+    width: 100%;
+    background: rgba(0,0,0,0.89) ;
+    color: rgba(255,255,255,0.32);
+    padding-top: 130px;
+}
+
+.twelve{
+
+    border: 1px solid transparent;
+    border-radius: 50px;
+    width: 420px;
+    height: 38px;
+
+}
+
+
